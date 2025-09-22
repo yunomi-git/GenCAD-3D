@@ -7,6 +7,8 @@ Official implementation of the paper **GenCAD3D: CAD Program Generation through 
 
 **Project Page**: https://gencad3d.github.io/
 
+**Paper**: https://arxiv.org/abs/2509.15246
+
 **Code**: https://github.com/yunomi-git/GenCAD-3D
 
 **Dataset**: https://huggingface.co/datasets/yu-nomi/GenCAD_3D
