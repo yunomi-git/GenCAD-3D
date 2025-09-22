@@ -1,7 +1,7 @@
 # GenCAD 3D
 
 ---
-![Logo](https://github.com/yunomi-git/GenCAD-3D/blob/main/GenCAD3D_Icon.png)
+![Logo](https://github.com/yunomi-git/GenCAD-3D/blob/main/icon.png)
 
 Official implementation of the paper **GenCAD3D: CAD Program Generation through Multimodal Latent Space Alignment and Synthetic Dataset Balancing**
 
