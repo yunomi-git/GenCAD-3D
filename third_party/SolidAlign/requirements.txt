@@ -1,0 +1,8 @@
+numpy
+scipy
+k3d
+matplotlib
+ipywidgets
+trimesh
+cupy-cuda12x
+cadquery

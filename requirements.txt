@@ -1,0 +1,39 @@
+# OCC #install pythonOCC through mamba install -c conda-forge pythonocc-core=7.9.0
+h5py
+tensorboardX
+tensorboard
+plyfile
+einops
+ema_pytorch
+x_clip
+
+opencv-python
+trimesh
+torch-geometric # feastnet
+
+tqdm
+matplotlib
+numpy==1.26.4
+scikit-learn
+pandas
+
+# diffusionnet
+potpourri3d
+robust-laplacian
+
+#torch_geometric
+lightning
+
+# Eval
+umap-learn
+cadquery # iou calc
+pytorch-fid
+
+# evaluation
+
+transformers
+
+huggingface_hub
+
+# For translation to onshape
+onshape-client

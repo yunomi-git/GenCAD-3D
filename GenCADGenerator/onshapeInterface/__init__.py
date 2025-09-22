@@ -1,0 +1,2 @@
+class ConfigurationEncoder:
+    pass
